@@ -1,0 +1,6 @@
+1. OnlineGDB
+2. No encontre la version de compilacion
+3. Algoritmo de la burbuja
+4.O(n2).
+5.Cambia dependiendo de los datos
+7.https://github.com/IvanMartinezIPN/AnalisisDeAlgoritmos2021
